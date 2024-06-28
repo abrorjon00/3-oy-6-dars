@@ -1,0 +1,189 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins';
+    background: #fff   ;
+}
+
+.container {
+    max-width: 1575px;
+    margin: auto;
+}
+
+.main__container {
+    display: flex;
+    margin-top: 10px;
+    align-items: center;
+}
+
+.main__container a {
+    color: #151D48;
+    text-decoration: none;
+    margin-right: 202px;
+}
+
+.main__container .search {
+    width: 513px;
+    border: 2px solid black;
+    padding: 9px 9px;
+    border-radius: 16px;
+    outline: none;
+    align-items: center;
+    background-color: #F9FAFB;
+}
+
+.main__container .search input {
+    border: none;
+    font-size: 15px;
+}
+
+.main__container .search input:focus {
+    outline: none;
+}
+
+.qwer {
+    display: flex;
+    .
+}
+
+.num {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-right: 20px;
+    margin-left: 58px;
+}
+
+.info {
+    display: flex;
+    align-items: center;
+}
+
+.info .div2{
+    width: 48px;
+    height: 48px;
+    background-color: #FFFAF1;
+    padding: 12px;
+    border-radius: 8px;
+   margin-right: 24px;
+}
+
+.info .div3 {
+margin-right: 20px;
+}
+
+.info .div4 .muttu{
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+margin-bottom: 4px;
+}
+
+.info .div5{
+margin-left: 54px;
+}
+
+.header__container{
+   
+    margin-left: 80px;
+}
+
+.header__container .filed{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+
+.header__container .kull{
+    display: flex;
+    width: 56px;
+    height: 56px;
+    background-color: #5D5FEF;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.card1{
+    width: 252px;
+    height: 64px;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    background-color: #5D5FEF;
+border-radius: 16px;
+padding: 16px, 24px, 16px, 24px;
+margin-top: 50px;
+
+}
+
+.card1 img{
+   margin-left: 24px;
+}
+
+.card1 .wordss{
+    color: #FFFFFF;
+}
+
+.card2{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    margin-top: 48px;
+}
+
+
+
+.words{
+    font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+color: #737791;
+
+}
+
+.card3{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    margin-top: 48px;
+}
+
+.card4{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    margin-top: 48px;
+}
+
+.card5{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    margin-top: 48px;
+}
+
+
+.card6{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    margin-top: 48px;
+}
+
+.card7{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    margin-top: 48px;
+}
+
+.card8{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    margin-top: 48px;
+}
